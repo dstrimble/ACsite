@@ -1,0 +1,11 @@
+{
+  "name": "aspectcoin-site",
+  "version": "1.0.0",
+  "description": "aspect coin website",
+  "scripts": {
+    "start": "node Server.js"
+  },
+  "dependencies": {
+    "express": "latest"
+  }
+}
